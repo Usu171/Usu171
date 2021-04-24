@@ -1,2 +1,18 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usu171)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Usu171&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## My openPGP public key
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEX56y2xYJKwYBBAHaRw8BAQdAIMhN7hGBV2TaR/aWPod3aJYErfzPAIHZ5QRV
+Sr+6C1y0GlVzdTE3MSA8MjkyOTI4MTYwM0BxcS5jb20+iJYEExYIAD4WIQQCfuOl
+fnsNrYU+aFmhe8W7wqxBPQUCX56y2wIbIwUJBfOF5QULCQgHAgYVCgkICwIEFgID
+AQIeAQIXgAAKCRChe8W7wqxBPSTxAQDNOyXvYNJTRNNPfGIkwa67+58L8BQZNwsk
+HLfPH+112AD9FDksJDCRZI0j7jTMs3AIWtHThDurmD6oJCi+IpxsBg+4OARfnrLb
+EgorBgEEAZdVAQUBAQdAjLqXXaFN2TdO7B6NwfAN1jZX4QuQz4cQbyjhSO3zsxUD
+AQgHiH4EGBYIACYWIQQCfuOlfnsNrYU+aFmhe8W7wqxBPQUCX56y2wIbDAUJBfOF
+5QAKCRChe8W7wqxBPQHVAQC3YK2Jf825HPYR2cXqpV63JudwLELlEWmd8clnwO9y
+CAEAnmd7jzoesuWHZGh3eGVGIUU9fId9akbNg9yhmqPp4g8=
+=ShWR
+-----END PGP PUBLIC KEY BLOCK-----
