@@ -18,7 +18,9 @@ CAEAnmd7jzoesuWHZGh3eGVGIUU9fId9akbNg9yhmqPp4g8=
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 ## Contact me
-[Telegram](https://t.me/Usu171)  
-QQ: 2929281603  
-[Twitter](https://twitter.com/Usu1711)  
+- [Telegram](https://t.me/Usu171)  
+- QQ: 2929281603  
+- [Twitter](https://twitter.com/Usu1711)  
+
+
 [Profile picture](https://www.pixiv.net/artworks/83110343)
