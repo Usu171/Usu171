@@ -1,4 +1,13 @@
 [![Usu171's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usu171&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+***
+- [Telegram](https://t.me/Usu171)  
+- Discord: Usu171#8746
+- QQ: 2929281603  
+- [Twitter](https://twitter.com/Usu1711)  
+
+
+[Profile picture](https://www.pixiv.net/artworks/83110343)  
+[WakaTime](https://wakatime.com/@Usu171)
 
 
 ***
@@ -17,12 +26,3 @@ CAEAnmd7jzoesuWHZGh3eGVGIUU9fId9akbNg9yhmqPp4g8=
 =ShWR
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-***
-- [Telegram](https://t.me/Usu171)  
-- Discord: Usu171#8746
-- QQ: 2929281603  
-- [Twitter](https://twitter.com/Usu1711)  
-
-
-[Profile picture](https://www.pixiv.net/artworks/83110343)  
-[WakaTime](https://wakatime.com/@Usu171)
