@@ -1,7 +1,7 @@
 [![Usu171's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usu171&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## My openPGP public key
+***
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
