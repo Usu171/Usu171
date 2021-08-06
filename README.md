@@ -17,8 +17,9 @@ CAEAnmd7jzoesuWHZGh3eGVGIUU9fId9akbNg9yhmqPp4g8=
 =ShWR
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-## Contact me
+***
 - [Telegram](https://t.me/Usu171)  
+- Discord: Usu171#8746
 - QQ: 2929281603  
 - [Twitter](https://twitter.com/Usu1711)  
 
