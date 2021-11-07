@@ -6,7 +6,7 @@
 - [Twitter](https://twitter.com/Usu1711)  
 
 
-[Profile picture](https://www.pixiv.net/artworks/83110343)  
+[Profile picture](https://www.pixiv.net/artworks/93505113)  
 [WakaTime](https://wakatime.com/@Usu171)
 
 
