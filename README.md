@@ -1,13 +1,13 @@
 [![Usu171's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usu171&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ***
-- [Telegram](https://t.me/Usu171)  
+- [Telegram](https://t.me/Usu171)
 - Discord: Usu171#8746
-- QQ: 2929281603  
-- [Twitter](https://twitter.com/Usu1711)  
+- QQ: 2929281603
+- [Twitter](https://twitter.com/Usu1711)
 
 
-[Profile picture](https://www.pixiv.net/artworks/87044076)  
-[Twitter header photo](https://www.pixiv.net/artworks/96080487)  
+[头像](https://www.pixiv.net/artworks/87044076)  
+[Twitter背景](https://www.pixiv.net/artworks/96080487)  
 [WakaTime](https://wakatime.com/@Usu171)
 
 
