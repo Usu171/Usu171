@@ -2,14 +2,8 @@
 ***
 
 
-[![twitter](https://img.shields.io/badge/Usu1711%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%E2%9A%A7%EF%B8%8F-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/Usu1711)  
-[![telegram](https://img.shields.io/badge/Usu171-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://telegram.me/Usu171)  
-[![discord](https://img.shields.io/badge/Usu171%238746-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/Usu171#8746)  
-QQ: 2929281603  
-
-[![头像](https://img.shields.io/badge/%E5%A4%B4%E5%83%8F-0096FA?style=for-the-badge&logo=pixiv&logoColor=ffffff)](https://www.pixiv.net/artworks/95362984)  
-[![twitter背景](https://img.shields.io/badge/twitter%E8%83%8C%E6%99%AF-0096FA?style=for-the-badge&logo=pixiv&logoColor=ffffff)](https://www.pixiv.net/artworks/96080487)  
-[![wakatime](https://wakatime.com/badge/user/9bcc2706-2d3e-4927-b255-a2f65e31774d.svg?style=for-the-badge)](https://wakatime.com/@9bcc2706-2d3e-4927-b255-a2f65e31774d)  
+[![twitter](https://img.shields.io/badge/Usu1711-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/Usu1711) [![Telegram](https://img.shields.io/badge/Usu171-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://telegram.me/Usu171) [![Discord](https://img.shields.io/badge/Usu171%238746-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/Usu171#8746) [![QQ](https://img.shields.io/badge/2929281603-32B2FD?style=for-the-badge&logo=TencentQQ&logoColor=ffffff)]()
+[![头像](https://img.shields.io/badge/%E5%A4%B4%E5%83%8F-0096FA?style=for-the-badge&logo=pixiv&logoColor=ffffff)](https://www.pixiv.net/artworks/95362984) [![背景](https://img.shields.io/badge/%E8%83%8C%E6%99%AF-0096FA?style=for-the-badge&logo=pixiv&logoColor=ffffff)](https://www.pixiv.net/artworks/96080487) [![wakatime](https://wakatime.com/badge/user/9bcc2706-2d3e-4927-b255-a2f65e31774d.svg?style=for-the-badge)](https://wakatime.com/@9bcc2706-2d3e-4927-b255-a2f65e31774d)  
 
 ***
 ```
