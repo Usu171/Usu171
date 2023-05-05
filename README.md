@@ -4,7 +4,7 @@
 
 [![twitter](https://img.shields.io/badge/Usu1711%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%E2%9A%A7%EF%B8%8F-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/Usu1711)  
 [![telegram](https://img.shields.io/badge/Usu171-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://telegram.me/Usu171)  
-[![discord](https://img.shields.io/badge/Usu171%238746-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff)]()  
+[![discord](https://img.shields.io/badge/Usu171%238746-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/Usu171#8746)  
 QQ: 2929281603  
 
 [![头像](https://img.shields.io/badge/%E5%A4%B4%E5%83%8F-0096FA?style=for-the-badge&logo=pixiv&logoColor=ffffff)](https://www.pixiv.net/artworks/95362984)  
