@@ -21,3 +21,13 @@ Jll2xWEBALRuEa+AqlYrw9eM7+Jrc2dXYGmPiaOpBM4aPIp+MrMN
 =wA3c
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+<p align="center">
+  <a href="https://count.getloli.com/"
+    ><img
+      alt="Usu171"
+      class="b"
+      src="https://count.getloli.com/get/@Usu171?theme=gelbooru"
+      width="400"
+  /></a>
+</p>
