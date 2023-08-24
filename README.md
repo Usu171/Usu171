@@ -3,23 +3,23 @@
 
 Theoretical / Computational Chemistry
 
-- ### ![Program Package](https://cdn.jsdelivr.net/gh/primer/octicons@19.6.0/icons/rows-16.svg) Program Package
+### ![Program Package](https://cdn.jsdelivr.net/gh/primer/octicons@19.6.0/icons/rows-16.svg) Program Package
 
   - [ORCA](https://orcaforum.kofo.mpg.de/app.php/portal)
   - [xtb](https://xtb-docs.readthedocs.io/en/latest/basics.html)
 
-- ### ![IDEs / Editors](https://cdn.jsdelivr.net/gh/primer/octicons@19.6.0/icons/code-16.svg) IDEs / Editors
+### ![IDEs / Editors](https://cdn.jsdelivr.net/gh/primer/octicons@19.6.0/icons/code-16.svg) IDEs / Editors
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![PyCharm](https://img.shields.io/badge/Pycharm-17cfb2?style=for-the-badge&logo=Pycharm)](https://www.jetbrains.com/pycharm/)
 
-- ### ![Operating Systems](https://cdn.jsdelivr.net/gh/primer/octicons/icons/device-desktop-16.svg) Operating Systems [<img align="right" src="https://count.getloli.com/get/@Usu171?theme=gelbooru" width="400" />](https://count.getloli.com/)
+### ![Operating Systems](https://cdn.jsdelivr.net/gh/primer/octicons/icons/device-desktop-16.svg) Operating Systems [<img align="right" src="https://count.getloli.com/get/@Usu171?theme=gelbooru" width="400" />](https://count.getloli.com/)
 
 ![Windows11](https://img.shields.io/badge/Windows11-24b1ff?style=for-the-badge&logo=Windows11)
 [![openSUSE](https://img.shields.io/badge/openSUSE-73ba25?style=for-the-badge&logo=openSUSE&logoColor=ffffff)](https://www.opensuse.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-e95420?style=for-the-badge&logo=Ubuntu&logoColor=ffffff)](https://code.visualstudio.com/) 
 
-- ### ![联系我](https://cdn.jsdelivr.net/gh/primer/octicons/icons/comment-16.svg) 联系我
+### ![联系我](https://cdn.jsdelivr.net/gh/primer/octicons/icons/comment-16.svg) 联系我
 
 [![Telegram](https://img.shields.io/badge/Usu171-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://telegram.me/Usu171)
 [![Discord](https://img.shields.io/badge/Usu171%238746-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/Usu171#8746)
