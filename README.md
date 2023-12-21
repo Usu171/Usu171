@@ -7,6 +7,7 @@ Theoretical / Computational Chemistry
 
   - [ORCA](https://orcaforum.kofo.mpg.de/app.php/portal)
   - [xTB](https://xtb-docs.readthedocs.io/en/latest/basics.html)
+  - [OpenMolcas](https://gitlab.com/Molcas/OpenMolcas)
 
 ### ![IDEs / Editors](https://cdn.jsdelivr.net/gh/primer/octicons@19.6.0/icons/code-16.svg) IDEs / Editors
 
