@@ -24,7 +24,6 @@ Theoretical / Computational Chemistry
 
 [![Telegram](https://img.shields.io/badge/Usu171-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://telegram.me/Usu171)
 [![Discord](https://img.shields.io/badge/Usu171%238746-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/Usu171#8746)
-[![QQ](https://img.shields.io/badge/2929281603-32B2FD?style=for-the-badge&logo=TencentQQ&logoColor=ffffff)](http://wpa.qq.com/msgrd?v=3&uin=2929281603&site=qq&menu=yes)  
 ***
 [![头像](https://img.shields.io/badge/%E5%A4%B4%E5%83%8F-0096FA?style=for-the-badge&logo=pixiv&logoColor=ffffff)](https://www.pixiv.net/artworks/74840699)
 [![背景](https://img.shields.io/badge/%E8%83%8C%E6%99%AF-0096FA?style=for-the-badge&logo=pixiv&logoColor=ffffff)](https://www.pixiv.net/artworks/96080487)
