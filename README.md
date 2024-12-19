@@ -10,8 +10,9 @@ Theoretical / Computational Chemistry
 
 ### ![IDEs / Editors](https://cdn.jsdelivr.net/gh/primer/octicons@19.6.0/icons/code-16.svg) IDEs / Editors
 
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/VSCode-007acc?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![PyCharm](https://img.shields.io/badge/Pycharm-17cfb2?style=for-the-badge&logo=Pycharm)](https://www.jetbrains.com/pycharm/)
+[![Neovim](https://img.shields.io/badge/neovim-57a143?style=for-the-badge&logo=Neovim&logoColor=ffffff)](https://neovim.io/)
 
 ### ![Operating Systems](https://cdn.jsdelivr.net/gh/primer/octicons/icons/device-desktop-16.svg) Operating Systems [<img align="right" src="https://count.getloli.com/get/@Usu171?theme=gelbooru" width="400" />](https://count.getloli.com/)
 
@@ -24,6 +25,6 @@ Theoretical / Computational Chemistry
 [![Telegram](https://img.shields.io/badge/Usu171-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://telegram.me/Usu171)
 [![Discord](https://img.shields.io/badge/Usu171%238746-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/Usu171#8746)
 ***
-[![Profile Picture](https://img.shields.io/badge/%E5%A4%B4%E5%83%8F-0096FA?style=for-the-badge&logo=pixiv&logoColor=ffffff)](https://www.pixiv.net/artworks/123342662)
-[![Background Image](https://img.shields.io/badge/%E8%83%8C%E6%99%AF-0096FA?style=for-the-badge&logo=pixiv&logoColor=ffffff)](https://www.pixiv.net/artworks/96080487)
+[![Profile Picture](https://img.shields.io/badge/Profile%20Picture-0096FA?style=for-the-badge&logo=pixiv&logoColor=ffffff)](https://www.pixiv.net/artworks/123342662)
+[![Background Image](https://img.shields.io/badge/Background%20Image-0096FA?style=for-the-badge&logo=pixiv&logoColor=ffffff)](https://www.pixiv.net/artworks/96080487)
 [![wakatime](https://wakatime.com/badge/user/9bcc2706-2d3e-4927-b255-a2f65e31774d.svg?style=for-the-badge)](https://wakatime.com/@9bcc2706-2d3e-4927-b255-a2f65e31774d)
