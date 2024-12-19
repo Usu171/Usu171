@@ -1,4 +1,3 @@
-# 这里是碳酰锴喵…（缩进纸箱）
 [<img align="right" src="https://github-readme-stats.vercel.app/api?username=Usu171&show_icons=true&theme=tokyonight" alt="Usu171's GitHub stats" />](https://github.com/anuraghazra/github-readme-stats)
 
 Theoretical / Computational Chemistry
@@ -20,11 +19,11 @@ Theoretical / Computational Chemistry
 [![openSUSE](https://img.shields.io/badge/openSUSE-73ba25?style=for-the-badge&logo=openSUSE&logoColor=ffffff)](https://www.opensuse.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-e95420?style=for-the-badge&logo=Ubuntu&logoColor=ffffff)](https://code.visualstudio.com/) 
 
-### ![联系我](https://cdn.jsdelivr.net/gh/primer/octicons/icons/comment-16.svg) 联系我
+### ![Contact Me](https://cdn.jsdelivr.net/gh/primer/octicons/icons/comment-16.svg) Contact Me
 
 [![Telegram](https://img.shields.io/badge/Usu171-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://telegram.me/Usu171)
 [![Discord](https://img.shields.io/badge/Usu171%238746-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/Usu171#8746)
 ***
-[![头像](https://img.shields.io/badge/%E5%A4%B4%E5%83%8F-0096FA?style=for-the-badge&logo=pixiv&logoColor=ffffff)](https://www.pixiv.net/artworks/74840699)
-[![背景](https://img.shields.io/badge/%E8%83%8C%E6%99%AF-0096FA?style=for-the-badge&logo=pixiv&logoColor=ffffff)](https://www.pixiv.net/artworks/96080487)
+[![Profile Picture](https://img.shields.io/badge/%E5%A4%B4%E5%83%8F-0096FA?style=for-the-badge&logo=pixiv&logoColor=ffffff)](https://www.pixiv.net/artworks/123342662)
+[![Background Image](https://img.shields.io/badge/%E8%83%8C%E6%99%AF-0096FA?style=for-the-badge&logo=pixiv&logoColor=ffffff)](https://www.pixiv.net/artworks/96080487)
 [![wakatime](https://wakatime.com/badge/user/9bcc2706-2d3e-4927-b255-a2f65e31774d.svg?style=for-the-badge)](https://wakatime.com/@9bcc2706-2d3e-4927-b255-a2f65e31774d)
