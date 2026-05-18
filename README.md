@@ -1,6 +1,6 @@
 # Hi, this is Usu171 👋
 
-[<img align="right" src="https://github-readme-stats.vercel.app/api?username=Usu171&show_icons=true&theme=tokyonight" alt="Usu171's GitHub stats" />](https://github.com/anuraghazra/github-readme-stats)
+[<img align="right" src="https://github-readme-stats-lovat-tau-85.vercel.app/api?username=Usu171&show_icons=true&theme=tokyonight" alt="Usu171's GitHub stats" />](https://github.com/anuraghazra/github-readme-stats)
 
 Theoretical / Computational Chemistry
 
@@ -9,13 +9,14 @@ Theoretical / Computational Chemistry
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-007acc?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![Neovim](https://img.shields.io/badge/neovim-57a143?style=for-the-badge&logo=Neovim&logoColor=ffffff)](https://neovim.io/)
 
-### ![Operating Systems](https://cdn.jsdelivr.net/gh/primer/octicons/icons/device-desktop-16.svg) Operating Systems [<img align="right" src="https://count.getloli.com/get/@Usu171?theme=gelbooru" width="400" />](https://count.getloli.com/)
+### ![Operating Systems](https://cdn.jsdelivr.net/gh/primer/octicons/icons/device-desktop-16.svg) Operating Systems
 
 ![Windows11](https://img.shields.io/badge/Windows11-24b1ff?style=for-the-badge&logo=Windows11)
 [![NixOS](https://img.shields.io/badge/NixOS-76b4df?style=for-the-badge&logo=NixOS&logoColor=ffffff)](https://nixos.org/)  
 [![openSUSE](https://img.shields.io/badge/openSUSE-888888?style=for-the-badge&logo=openSUSE&logoColor=ffffff)](https://www.opensuse.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-888888?style=for-the-badge&logo=Ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 
+[<img align="right" src="https://count.getloli.com/get/@Usu171?theme=gelbooru" width="400" />](https://count.getloli.com/)
 
 ### ![Contact Me](https://cdn.jsdelivr.net/gh/primer/octicons/icons/comment-16.svg) Contact Me
 
